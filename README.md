@@ -1,30 +1,66 @@
-GKMIT Restaurant :- Restaurant to order and find delicious food.
+# YumYum Restaurant
 
-Restaurant Website using MERN Stack.
+**YumYum Restaurant** is a web application to order and find delicious food easily.
 
-Technology Used:-
-1.ReactJS(Frontend)
-2.Advance CSS
-3.NodeJS(Backend)
+---
 
-Home Page:-
+## Description
 
-![Screenshot 2022-11-12 at 3 52 38 PM](https://user-images.githubusercontent.com/114575434/215434030-bdbdbb0a-3825-4a63-891f-017d0e79cb58.png)
+This is a **Restaurant Website** built using the **MERN Stack** (MongoDB, Express, React, Node.js).  
+Users can browse the menu, place orders, and enjoy a seamless food ordering experience.
 
+---
 
-Food Page:-
+## Technologies Used
 
+- **ReactJS** - Frontend UI  
+- **Advanced CSS** - Styling and responsive design  
+- **NodeJS** - Backend server and API  
 
-![Screenshot 2022-11-12 at 3 52 56 PM](https://user-images.githubusercontent.com/114575434/215434166-7c62e6ed-0cbe-4cba-bb24-9f7d898f7035.png)
+---
 
+## Features
 
-Cart Page:-
-![Screenshot 2022-11-12 at 3 53 23 PM](https://user-images.githubusercontent.com/114575434/215434212-0c1cfffa-0693-4e1b-a5b0-d76e758e25b7.png)
+- Browse a variety of delicious food items  
+- User-friendly interface built with ReactJS  
+- Responsive design with advanced CSS techniques  
+- Backend API built with NodeJS for handling orders and data  
 
+---
 
-Contact Us Page:-
-![Screenshot 2022-11-12 at 3 53 37 PM](https://user-images.githubusercontent.com/114575434/215434312-96e29da1-8491-4f27-8853-f87bc7f2d713.png)
+## Installation
 
+1. Clone the repository:  
+```bash
+git clone https://github.com/yourusername/gkmit-restaurant.git
+```
+2. Navigate to the project directory:
+```bash
+cd gkmit-restaurant
+```
+3. Install frontend dependencies:
+```bash
+cd frontend
+npm install
+```
+4. Install backend dependencies:
+```bash
+cd ../backend
+npm install
+```
+5. Run the backend server:
+```bash
+npm start
+```
+6.Run the frontend app:
+```bash
+cd ../frontend
+npm start
+```
+Usage
+Open your browser and go to http://localhost:3000 to access the restaurant website.
 
+Browse the menu and place your orders.
 
-
+Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
